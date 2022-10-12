@@ -1,0 +1,245 @@
+body {
+    font-family: semplicitapro, sans-serif;    
+}
+
+/* estilos header */
+
+header {
+    padding: 0 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header div div h1 {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 700;
+    font-style: normal; 
+}
+
+header div div p {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+header h1 {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+  
+
+header section h3 {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1 {
+    color: #242852;
+}
+h2{
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #242852;
+
+    margin-top: 36px;
+}
+
+h3{
+    color: #36B6B4;
+}
+/* estilos main */
+main {
+    margin-top: 36px;
+
+
+}
+
+.intro {
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.img-maxi {
+    width: 400px;
+}
+
+div .row {
+    width: 80%;
+}
+
+.navbar-brand {
+    font-family: transat,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.semibold {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+main section h3 {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+footer {
+    display: flex;
+    align-content: center;
+justify-content: center;}
+
+header .title {
+    padding: 0 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+footer {
+    margin-top: 36px;
+    margin-bottom: 36px;
+    font-family: semplicitapro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: smaller;
+
+    color: darkgrey;
+}
+
+section.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 36px;
+}
+
+
+
+.img-bio {
+    width: 300px;
+    border-radius: 40px;
+}
+
+section div.about-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+section div.text {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+section div.about.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+
+a.nav-link.active {
+    text-decoration: none;
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #36B6B4;
+}
+
+a.nav-link {
+    text-decoration: none;
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #242852;
+}
+
+a {
+    text-decoration: none;
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    color: #242852;
+}
+
+ul {
+    list-style: none;
+    padding: 0%;
+}
+
+section.cards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+    margin-top: 36px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h6 {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    color: #36B6B4;
+}
+
+span {
+    font-family: semplicitapro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    color: #36B6B4;
+}
+
+div.carousel {
+    margin-top: 36px;
+
+}
+
+p {
+    color: #242852;
+}
+
+section.contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 36px;
+}
+
+div.mb-3 {
+    width: 60%;
+}
+
+button.btn {
+    border: none
+}
+
+p.description {
+    color: white;
+}
+
+nav {
+    padding: 0 12px;
+}
